@@ -10,7 +10,7 @@ This repo contains a calculator web app🧮
 
 ### Links
 
-- Live Site URL: [Live site URL here](https://ayinbota-age-calculator.netlify.app/)
+- Live Site URL: [Live site URL here](https://ayinbot-simple-calculator.netlify.app)
 
 ### Built with
 
